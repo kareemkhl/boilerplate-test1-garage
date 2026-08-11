@@ -43,6 +43,7 @@ Thumbs.db
 # Claude Code session data (machine-local, not shared)
 .claude/sessions/
 .claude/checkpoints.log
+.claude/settings.local.json
 
 # Misc
 *.log
